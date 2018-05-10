@@ -1,0 +1,4 @@
+E:\chilly projects\MangaParkCrawler\MangaParkCrawler\Models\bin\Debug\Models.dll
+E:\chilly projects\MangaParkCrawler\MangaParkCrawler\Models\bin\Debug\Models.pdb
+E:\chilly projects\MangaParkCrawler\MangaParkCrawler\Models\obj\Debug\Models.dll
+E:\chilly projects\MangaParkCrawler\MangaParkCrawler\Models\obj\Debug\Models.pdb

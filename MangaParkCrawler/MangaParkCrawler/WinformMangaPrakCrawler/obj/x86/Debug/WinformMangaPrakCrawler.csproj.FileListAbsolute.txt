@@ -1,0 +1,7 @@
+E:\chilly projects\MangaParkCrawler\MangaParkCrawler\WinformMangaPrakCrawler\bin\Debug\WinformMangaPrakCrawler.exe
+E:\chilly projects\MangaParkCrawler\MangaParkCrawler\WinformMangaPrakCrawler\bin\Debug\WinformMangaPrakCrawler.pdb
+E:\chilly projects\MangaParkCrawler\MangaParkCrawler\WinformMangaPrakCrawler\obj\x86\Debug\WinformMangaPrakCrawler.Properties.Resources.resources
+E:\chilly projects\MangaParkCrawler\MangaParkCrawler\WinformMangaPrakCrawler\obj\x86\Debug\WinformMangaPrakCrawler.csproj.GenerateResource.Cache
+E:\chilly projects\MangaParkCrawler\MangaParkCrawler\WinformMangaPrakCrawler\obj\x86\Debug\WinformMangaPrakCrawler.exe
+E:\chilly projects\MangaParkCrawler\MangaParkCrawler\WinformMangaPrakCrawler\obj\x86\Debug\WinformMangaPrakCrawler.pdb
+E:\chilly projects\MangaParkCrawler\MangaParkCrawler\WinformMangaPrakCrawler\obj\x86\Debug\WinformMangaPrakCrawler.MainForm.resources

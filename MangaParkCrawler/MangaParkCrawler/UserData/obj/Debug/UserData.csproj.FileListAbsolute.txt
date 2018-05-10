@@ -1,0 +1,7 @@
+E:\chilly projects\MangaParkCrawler\MangaParkCrawler\UserData\bin\Debug\UserData.dll
+E:\chilly projects\MangaParkCrawler\MangaParkCrawler\UserData\bin\Debug\UserData.pdb
+E:\chilly projects\MangaParkCrawler\MangaParkCrawler\UserData\bin\Debug\Models.dll
+E:\chilly projects\MangaParkCrawler\MangaParkCrawler\UserData\bin\Debug\Models.pdb
+E:\chilly projects\MangaParkCrawler\MangaParkCrawler\UserData\obj\Debug\UserData.csprojResolveAssemblyReference.cache
+E:\chilly projects\MangaParkCrawler\MangaParkCrawler\UserData\obj\Debug\UserData.dll
+E:\chilly projects\MangaParkCrawler\MangaParkCrawler\UserData\obj\Debug\UserData.pdb
